@@ -14,3 +14,6 @@ A system for Legal professionals, Law firms and businesses  consisting of -
    - Useful for managing and organising documents for legal professionals, businesses
    
    
+
+
+<img width="1259" alt="image" src="https://github.com/user-attachments/assets/4e14a6a8-1324-41a9-840f-e4a01a43d78a" />
