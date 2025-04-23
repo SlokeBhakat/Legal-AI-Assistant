@@ -9,7 +9,7 @@ A system for Legal professionals, Law firms and businesses  consisting of -
    - legal document summarisation
 
 
-2. Legal document Classifcation  -
+2. Legal document Classifcation using CNN -
    - Based on image input , it can classify legal documents into email, memo, news article, resume , report etc.
    - Useful for managing and organising documents for legal professionals, businesses
    
