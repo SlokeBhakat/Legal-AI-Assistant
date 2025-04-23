@@ -17,3 +17,6 @@ A system for Legal professionals, Law firms and businesses  consisting of -
 
 
 <img width="1259" alt="image" src="https://github.com/user-attachments/assets/4e14a6a8-1324-41a9-840f-e4a01a43d78a" />
+
+
+![image](https://github.com/user-attachments/assets/1312b8e5-75a1-4826-9300-ba64b4a12a22)
