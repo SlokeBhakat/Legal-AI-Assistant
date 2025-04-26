@@ -3,15 +3,15 @@
 A system for Legal professionals, Law firms and businesses  consisting of -
 
 
-1. Legal - RAG (retreival augmented generation) -
+1. Legal - RAG (retrieval augmented generation) -
    - Legal question answering
-   - clause explanation and simplification
-   - legal document summarisation
+   - Clause explanation and simplification
+   - Legal document summarisation
 
 
-2. Legal document Classifcation using CNN -
-   - Based on image input , it can classify legal documents into email, memo, news article, resume , report etc.
-   - Useful for managing and organising documents for legal professionals, businesses
+2. Legal document Classification using CNN -
+   - Based on image input, it can classify legal documents into email, memo, news article, resume, report, etc.
+   - Useful for managing and organising documents for legal professionals and businesses
    
    
 
